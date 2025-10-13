@@ -1,0 +1,4 @@
+rootProject.name = "design-patterns"
+include("creational")
+include("structural")
+include("behavioral")
